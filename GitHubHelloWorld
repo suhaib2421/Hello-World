@@ -1,7 +1,7 @@
 public class GitHubHelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Suhaib Shaikh");
+		System.out.println("Suhaib Shaikh and Shane Clegg");
 
 	}
 
